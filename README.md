@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guohuaCabin&show_icons=true&theme=gruvbox) -->
+<!-- ![guohuaCabin GitHub Stats](https://github-readme-stats.vercel.app/api?username=guohuaCabin&show_icons=true&theme=gruvbox) -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=guohuaCabin&show_icons=true&theme=gruvbox" />
 
 ### guohuaCabin GitHub Stats👋
 
