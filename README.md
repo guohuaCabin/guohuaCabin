@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ### guohuaCabin GitHub Stats👋
 
-- 🔭 I’m currently working on interesting things
-- 🌱 I’m currently learning python & flutter
-- 👯 I’m Focusing on Objective-C
+- I’m Focusing on Objective-C
+- I’m currently learning python & flutter
+- I’m currently working on interesting things
+
+
